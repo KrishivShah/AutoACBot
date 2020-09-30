@@ -1,0 +1,11 @@
+LCD	KEYWORD1
+init	KEYWORD2
+cmd	KEYWORD2
+toggleE	KEYWORD2
+dely_ns	KEYWORD2
+chart	KEYWORD2
+stringg	KEYWORD2
+showvalue	KEYWORD2
+gotoxy1	KEYWORD2
+gotoxy2	KEYWORD2
+exit	KEYWORD2
